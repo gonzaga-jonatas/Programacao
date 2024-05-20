@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\jonat\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	email = jonatasxdlk@gmail.com
+	password = Maria1@2
+[filesystem "Oracle Corporation|12.0.1|1075683165"]
+	timestampResolution = 7088 microseconds
+	minRacyThreshold = 0 nanoseconds
